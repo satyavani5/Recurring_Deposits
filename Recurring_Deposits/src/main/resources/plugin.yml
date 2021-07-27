@@ -1,0 +1,4 @@
+name: Recurring_Deposits
+main: ICICI.Recurring_Deposits.Plugin
+version: 1.0-SNAPSHOT
+api-version: 1.15
